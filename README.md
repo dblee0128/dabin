@@ -1,12 +1,9 @@
 ### 이다빈 Web Developer 👩🏻‍💻
 
+#### Java. Spring. JSP/Servlet. Javascript. HTML. CSS.
+#### Oracle. MySQL.Linux. Docker. Git.
+
 ------
-
-
-#### Java. JSP/Servlet. Javascript. HTML. CSS.
-#### Spring Framework
-#### Oracle. MySQL.
-#### Linux. Docker. Git
 
 ##### 안녕하세요. 꼼꼼하고 끈기 있는, 항상 노력하는 웹 개발자 이다빈입니다.
 
